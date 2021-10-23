@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  testTableview
 //
-//  Created by RyoNagai on 2021/10/18.
+//  Created by Ryo on 2021/10/18.
 //
 
 import UIKit
